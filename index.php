@@ -13,7 +13,7 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-<!--almost done
+
     <!-- Custom CSS -->
     <link href="css/grayscale.css" rel="stylesheet">
 
@@ -63,7 +63,10 @@
                     </li>
                     
                     <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a class="page-scroll" href="#contact" >Contact
+                        </a>
+                        
+                        
                     </li>
                 </ul>
             </div>
@@ -148,8 +151,13 @@
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Contact Me</h2>
                 <p>Feel free to email me</p>
+                <img src="img/headshot.JPG" alt="face"style="width:300px;height:300px;" />
                 <p><a href="mailto:mla23@njit.edu">mla23@njit.edu</a>
                 </p>
+                <p>
+                            
+                        </p>
+                
                 
             </div>
         </div>
@@ -162,7 +170,7 @@
     <footer>
         <div class="container text-center">
             <p>Copyright &copy; Max Alekhnovich Resume</p>
-            <p> bootsrap template by Start Bootstrap
+            <p> bootstrap template by Start Bootstrap
         </div>
     </footer>
 
